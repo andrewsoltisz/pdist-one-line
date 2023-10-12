@@ -43,6 +43,7 @@ function [D] = pdist_oneLine(varargin)
 % Author: Andrew M. Soltisz
 % Email: andysoltisz@gmail.com
 % GitHub: https://github.com/andrewsoltisz/pdist-one-line/tree/main
+% MathWorks: https://www.mathworks.com/matlabcentral/fileexchange/136559-pdist_oneline
 % Last Updated: 10/12/2023
 %
 % Copyright 2023, Andrew Michael Soltisz. All rights reserved.
